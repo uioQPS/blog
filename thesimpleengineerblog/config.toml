@@ -1,0 +1,4 @@
+baseURL = 'https://thesimpleengineer.github.io/'
+languageCode = 'en-us'
+title = 'uio Study Blog'
+theme="LoveIt"
