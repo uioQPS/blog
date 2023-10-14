@@ -12,7 +12,7 @@ jquery 是一个轻量化的JavaScript代码库，支持多种浏览器，主要
 
 ###  选择和创建元素
 ```html
-$("</div>") $("#productprice")     
+$("<\/div>") $("#productprice")     
 选择(tag)和创建(</>)元素，产出的是类数组的DOM集合
 创建多个标签
 ```
